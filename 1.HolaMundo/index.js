@@ -4,13 +4,6 @@
  * 3- Genera un archivo index.js
  * 4- Ejecutamos el archivo .js con node
  */
-
-
-
-const saludo = 'Hola Mundo';
-let fecha = Date();
-console.log(saludo + '[ ' + fecha+ ']');
-/** */
-
-
-
+var saludo = 'Hola Mundo';
+var fecha = Date();
+console.log(saludo + '[ ' + fecha + ']');
